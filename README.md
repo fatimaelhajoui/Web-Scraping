@@ -12,3 +12,10 @@ his project is designed to scrape product information from an e-commerce website
 - Install Python
 - Install Requests ``` pip install requests ```
 - Install BeautifulSoup ``` pip install beautifulsoup4 ```
+
+## Steps
+- Setup the libraries we will use
+- scraping data from the main page
+- saving data on ``` CSV File ```
+- scraping data from inner pages
+- scraping data from multiple pages
